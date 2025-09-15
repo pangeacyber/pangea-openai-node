@@ -1,6 +1,6 @@
 {
   "name": "@pangeacyber/openai",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wrapper around the OpenAI TypeScript library that wraps the Responses API with Pangea AI Guard",
   "publishConfig": {
     "access": "public"
