@@ -43,6 +43,12 @@ jobs:
       - name: Build
         run: pnpm run build
 
+      - name: arethetypeswrong
+        run: pnpm run attw
+
+      - name: publint
+        run: pnpm run publint
+
   lint:
     runs-on: ubuntu-24.04
     steps:
@@ -62,9 +68,3 @@ jobs:
 
       - name: Lint
         run: pnpm run lint
-
-      - name: arethetypeswrong
-        run: pnpm run attw
-
-      - name: publint
-        run: pnpm run publint
