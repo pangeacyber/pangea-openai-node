@@ -42,7 +42,7 @@
   },
   "packageManager": "pnpm@10.17.1",
   "dependencies": {
-    "openai": "^5.20.1",
+    "openai": "^5.23.1",
     "pangea-node-sdk": "^5.5.1"
   },
   "devDependencies": {
