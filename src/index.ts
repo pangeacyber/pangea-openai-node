@@ -1,3 +1,4 @@
+export { PangeaAzureOpenAI } from './azure.js';
 export { PangeaOpenAI } from './client.js';
 
 export {
