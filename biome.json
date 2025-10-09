@@ -3,6 +3,9 @@
   "extends": ["@kenan/biome-config"],
   "linter": {
     "rules": {
+      "complexity": {
+        "useLiteralKeys": "off"
+      },
       "nursery": "off",
       "performance": {
         "noBarrelFile": "off",
