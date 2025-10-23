@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       openai:
-        specifier: ^6.4.0
-        version: 6.5.0
+        specifier: ^6.6.0
+        version: 6.6.0
       pangea-node-sdk:
         specifier: ^5.6.0
         version: 5.6.0
@@ -585,8 +585,8 @@ packages:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
     engines: {node: '>=0.10.0'}
 
-  openai@6.5.0:
-    resolution: {integrity: sha512-bNqJ15Ijbs41KuJ2iYz/mGAruFHzQQt7zXo4EvjNLoB64aJdgn1jlMeDTsXjEg+idVYafg57QB/5Rd16oqvZ6A==}
+  openai@6.6.0:
+    resolution: {integrity: sha512-1yWk4cBsHF5Bq9TreHYOHY7pbqdlT74COnm8vPx7WKn36StS+Hyk8DdAitnLaw67a5Cudkz5EmlFQjSrNnrA2w==}
     hasBin: true
     peerDependencies:
       ws: ^8.18.0
@@ -1238,7 +1238,7 @@ snapshots:
 
   object-assign@4.1.1: {}
 
-  openai@6.5.0: {}
+  openai@6.6.0: {}
 
   package-manager-detector@1.5.0: {}
 
